@@ -56,7 +56,23 @@ All of the boundary conditions will be applied by right clicking statis structur
 
 ![Upload .cdb file](Picture/17.png)
 
+Apply the following boundary conditions. Do not forget to select appropriate facec for the BCs. These set of boundary conditions are there to make sure we stay in plain strain situation (no strain z direction)
+
+![Upload .cdb file](Picture/BCs.png)
+
+You will end up having 5 displacement boundary conditions. If you see a question mark by any of them that means you have not selected a face to apply that boundary condition on. Once you have all the BCs, we will add a Command snippet as shown below.
+
 ![Upload .cdb file](Picture/18.png)
+
+Based on which material model you are running, copy the contents of the .dat file into the command page.
+
+![Upload .cdb file](Picture/19.png)
+
+![Upload .cdb file](Picture/22.png)
+
+![Upload .cdb file](Picture/23.png)
+
+![Upload .cdb file](Picture/24.png)
 
 
 
