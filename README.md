@@ -52,6 +52,10 @@ Now Double click on Model in Static structural and open it. You Should see the g
 
 ![Upload .cdb file](Picture/16.png)
 
+Make sure you select the same units here as well. As shown below.
+
+![Upload .cdb file](Picture/31.png)
+
 All of the boundary conditions will be applied by right clicking statis structural in the project outline tree and clicking on insert and then selecting displacement as shown below.
 
 ![Upload .cdb file](Picture/17.png)
