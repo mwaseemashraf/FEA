@@ -10,5 +10,51 @@ In this lab we will learn how to simulate elastic, isotropic hardening, and crys
 5. Solver settings and solution.
 6. Postprocessing.
 
-In this lab we have already completed the first two steps and the .cdb file you have contained a meshed geometry. 
-![Meshed polycrystal](images/app-preview.png)
+In this lab we have already completed the first two steps and the .cdb file you have contained a meshed geometry. Open ANSYS Workbench (I used 2023R2).
+## Step:1 Importing External Model in ANSYS Workbench
+Locate the External Model and drag it into Project Schematic:
+
+![Locate External Model](Picture/2.png)
+
+![Upload .cdb file](Picture/3.png)
+
+Right-click on Setup > Edit > Location > Browse, and locate the .cdb file provided.
+
+![Upload .cdb file](Picture/4.png)
+
+![Upload .cdb file](Picture/5.png)
+
+Click on cell 2A and make sure the right set of units are selected.
+
+![Upload .cdb file](Picture/7.png)
+
+Click on the project tab to get back to project schematic window.
+
+![Upload .cdb file](Picture/8.png)
+
+Locate Static Structural model and drag and drop it into project schematic.
+
+![Upload .cdb file](Picture/9.png)
+
+Click on Model section from the External Model and drag it to the Model section in Static structural.
+
+![Upload .cdb file](Picture/11.png)
+
+Right click on the model tab in external model and update it.
+
+![Upload .cdb file](Picture/13.png)
+
+Right click Model section in Static Structural and select properties. In properties tab set object renaming to off.
+
+![Upload .cdb file](Picture/14.png)
+
+Now Double click on Model in Static structural and open it.
+
+![Upload .cdb file](Picture/16.png)
+
+![Upload .cdb file](Picture/14.png)
+
+![Upload .cdb file](Picture/14.png)
+
+
+
