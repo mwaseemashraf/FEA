@@ -68,15 +68,29 @@ Based on which material model you are running, copy the contents of the .dat fil
 
 ![Upload .cdb file](Picture/19.png)
 
-Click on the analysis setting snippet under static structural and go to the details section. Turn the auto stepping on.
+Click on the analysis setting snippet under static structural and go to the details section. Turn the auto time stepping on. Then apply the following settings.
 
-![Upload .cdb file](Picture/22.png)
+![Upload .cdb file](Picture/Analysis_settings.png)
 
+Click on solve as shown below.
 
+![Upload .cdb file](Picture/20.png)
 
-![Upload .cdb file](Picture/23.png)
+Once the solution is complete. You can add results as shown below.
 
-![Upload .cdb file](Picture/24.png)
+![Upload .cdb file](Picture/21.png)
+
+You can add user defined stress and strain results on the face where you applied the strain. Following figures show the steps.
+
+![Upload .cdb file](Picture/33.png)
+
+![Upload .cdb file](Picture/34.png)
+
+You can export the results in .txt or .csv files as shown below.
+
+![Upload .cdb file](Picture/35.png)
+
+For deformation you can either add a user defined results by replacing "SY" expression with "UY" or add a deformation result. You can export this result in the same way as that of stress and plot stress vs strain externally.
 
 
 
