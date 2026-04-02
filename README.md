@@ -48,13 +48,15 @@ Right click Model section in Static Structural and select properties. In propert
 
 ![Upload .cdb file](Picture/14.png)
 
-Now Double click on Model in Static structural and open it.
+Now Double click on Model in Static structural and open it. You Should see the geometry. If you don't see it, close the current window and update model section in the External Model. 
 
 ![Upload .cdb file](Picture/16.png)
 
-![Upload .cdb file](Picture/14.png)
+All of the boundary conditions will be applied by right clicking statis structural in the project outline tree and clicking on insert and then selecting displacement as shown below.
 
-![Upload .cdb file](Picture/14.png)
+![Upload .cdb file](Picture/17.png)
+
+![Upload .cdb file](Picture/18.png)
 
 
 
