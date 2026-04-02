@@ -68,7 +68,11 @@ Based on which material model you are running, copy the contents of the .dat fil
 
 ![Upload .cdb file](Picture/19.png)
 
+Click on the analysis setting snippet under static structural and go to the details section. Turn the auto stepping on.
+
 ![Upload .cdb file](Picture/22.png)
+
+
 
 ![Upload .cdb file](Picture/23.png)
 
