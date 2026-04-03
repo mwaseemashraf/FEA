@@ -84,7 +84,7 @@ Once the solution is complete. You can add results as shown below.
 
 ![Upload .cdb file](Picture/21.png)
 
-You can add user defined stress and strain results on the face where you applied the strain. Following figures show the steps.
+You can add user defined stress and strain results (SY or UY) on the face where you applied the strain. Following figures show the steps.
 
 ![Upload .cdb file](Picture/33.png)
 
