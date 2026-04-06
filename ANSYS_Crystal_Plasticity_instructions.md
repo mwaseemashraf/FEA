@@ -1,14 +1,13 @@
 # FEA Lab 2: Crystal Plasticity
 
-In this lab we will learn how to simulate elastic, isotropic hardening, and crystal plasticity response from a polycrystal of Aluminum 2024 T3.
+In this lab we will learn how to simulate elastic, isotropic hardening, and crystal plasticity response for a polycrystal of Aluminum 2024 T3.
 
 ## Generic steps for an FEA mode
-1. Geometry creation.
-2. Meshing.
-3. Material selection.
-4. Selecting Physics.
+1. Geometry creation. (Provided)
+2. Meshing. (Already done.)
+3. Material model selection. (three .dat files)
 5. Solver settings and solution.
-6. Postprocessing.
+6. Postprocessing. (Outside ANSYS)
 
 In this lab we have already completed the first two steps and the .cdb file you have contained a meshed geometry. Open ANSYS Workbench (I used 2023R2). There might be some variations in where the software options are depending on version.
 ## Step:1 Importing External Model in ANSYS Workbench
