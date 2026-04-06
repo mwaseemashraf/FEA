@@ -95,3 +95,4 @@ You can export the results in .txt or .csv files as shown below.
 ![Upload .cdb file](Picture/35.png)
 
 For deformation you can either add a user defined results by replacing "SY" expression with "UY" or add a deformation result (and choose Y axis result). You can export this result in the same way as that of stress and plot stress vs strain externally.
+Once you have stress and strain CSVs (or txt) fiels you can plot and compare them.
