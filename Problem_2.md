@@ -1,6 +1,7 @@
 # Problem 2 – Rectagular plate with a hole
 In this problem we will try to understand the role of mesh refinement in getting accurate results. 
 
+
 We will use the following geometry.
 ![Geometry](Pictures_P2/Geometry.png)
 ## Follow the following instructions.
