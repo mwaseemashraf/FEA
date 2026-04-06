@@ -68,7 +68,7 @@ You will end up having 5 displacement boundary conditions. If you see a question
 
 ![Upload .cdb file](Picture/18.png)
 
-Based on which material model you are running, copy the contents of the .dat file into the command page.
+Based on which material model you are running, copy the contents of the .dat file into the command page. You add multiple command snipets (for each material model case) al long as suppress (by right clicking) all except the one you want to use.
 
 ![Upload .cdb file](Picture/19.png)
 
