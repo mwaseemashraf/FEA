@@ -41,7 +41,7 @@ Once you have finshed creating geometry. Minimize the window and get back to `Wo
 
 ![Locate External Model](Pictures_P2/14.png)
 
-Don't gorget to choose the units in mm ..
+Don't forget to choose the units in mm ..
 
 ![Locate External Model](Pictures_P2/22.png)
 
