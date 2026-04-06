@@ -41,6 +41,10 @@ Once you have finshed creating geometry. Minimize the window and get back to `Wo
 
 ![Locate External Model](Pictures_P2/14.png)
 
+Don't gorget to choose the units in mm ..
+
+![Locate External Model](Pictures_P2/22.png)
+
 Right click on `Mesh` and `>Insert>Method`
 
 ![Locate External Model](Pictures_P2/16.png)
@@ -51,11 +55,14 @@ Select the geometry (whole body not a face) and click on apply.
 
 ![Locate External Model](Pictures_P2/18.png)
 
+Choose the `Cartesian` method.
+
+![Locate External Model](Pictures_P2/19.png)
+
 Right click on `Mesh` and generate the mesh.
 
 ![Generate Mesh](Pictures_P2/15.png)
 
-![Locate External Model](Pictures_P2/19.png)
 
 ![Locate External Model](Pictures_P2/20.png)
 
