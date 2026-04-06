@@ -10,7 +10,7 @@ In this lab we will learn how to simulate elastic, isotropic hardening, and crys
 5. Solver settings and solution.
 6. Postprocessing.
 
-In this lab we have already completed the first two steps and the .cdb file you have contained a meshed geometry. Open ANSYS Workbench (I used 2023R2).
+In this lab we have already completed the first two steps and the .cdb file you have contained a meshed geometry. Open ANSYS Workbench (I used 2023R2). There might be some variations in where the software options are depending on version.
 ## Step:1 Importing External Model in ANSYS Workbench
 Locate the External Model and drag it into Project Schematic:
 
